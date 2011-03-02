@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/jmock/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jmock/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/jmock/jmock-2.5.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/GOOS/lib/jmock/jmock-2.5.1-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jmock/jmock-junit4-2.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
